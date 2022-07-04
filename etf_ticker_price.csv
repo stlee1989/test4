@@ -650,7 +650,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,38.71,39.18,37.69,38.12,2513593,USD,NYSE,iShares Global Energy,IXC,"electricity, gas and water supply",etf,external
 2022-06-15,38.21,38.26,36.89,37.58,851077,USD,NYSE,iShares Global Energy,IXC,"electricity, gas and water supply",etf,external
 2022-06-16,36.41,36.68,35.47,35.65,868585,USD,NYSE,iShares Global Energy,IXC,"electricity, gas and water supply",etf,external
-2022-06-17,35.41,35.52,33.55,33.9,3774237,USD,NYSE,iShares Global Energy,IXC,"electricity, gas and water supply",etf,external
+2022-06-17,35.47,35.65,33.55,33.9,3774237,USD,NYSE,iShares Global Energy,IXC,"electricity, gas and water supply",etf,external
+2022-06-21,34.84,35.65,34.84,35.47,1078929,USD,NYSE,iShares Global Energy,IXC,"electricity, gas and water supply",etf,external
+2022-06-22,34.0,34.65,33.8,34.15,1043524,USD,NYSE,iShares Global Energy,IXC,"electricity, gas and water supply",etf,external
+2022-06-23,34.33,34.41,32.53,32.89,2217045,USD,NYSE,iShares Global Energy,IXC,"electricity, gas and water supply",etf,external
+2022-06-24,33.48,34.1,33.16,33.6,4202032,USD,NYSE,iShares Global Energy,IXC,"electricity, gas and water supply",etf,external
+2022-06-27,33.89,34.71,33.89,34.47,1426693,USD,NYSE,iShares Global Energy,IXC,"electricity, gas and water supply",etf,external
+2022-06-28,35.31,35.82,34.92,35.34,2736716,USD,NYSE,iShares Global Energy,IXC,"electricity, gas and water supply",etf,external
+2022-06-29,35.78,35.95,34.32,34.38,877944,USD,NYSE,iShares Global Energy,IXC,"electricity, gas and water supply",etf,external
+2022-06-30,33.8,34.35,33.38,33.88,986598,USD,NYSE,iShares Global Energy,IXC,"electricity, gas and water supply",etf,external
+2022-07-01,33.96,34.23,33.05,34.09,865433,USD,NYSE,iShares Global Energy,IXC,"electricity, gas and water supply",etf,external
 2020-01-02,11.83,11.95,11.78,11.93,378801,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
 2020-01-03,11.89,11.96,11.84,11.87,424215,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
 2020-01-06,11.83,11.87,11.75,11.84,561588,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
@@ -1271,7 +1280,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,18.41,18.51,18.04,18.22,5061515,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
 2022-06-15,18.25,18.85,18.13,18.66,5755069,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
 2022-06-16,18.21,18.35,17.83,17.97,8051590,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
-2022-06-17,18.08,18.74,18.08,18.62,5479019,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
+2022-06-17,18.06,18.74,18.06,18.62,5479019,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
+2022-06-21,19.0,19.33,18.96,19.08,6056073,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
+2022-06-22,18.69,19.22,18.69,18.96,3479589,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
+2022-06-23,18.92,19.36,18.81,19.32,3223273,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
+2022-06-24,19.54,19.56,19.11,19.41,4195675,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
+2022-06-27,19.41,19.85,19.36,19.68,3718806,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
+2022-06-28,19.84,19.85,19.11,19.15,3691365,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
+2022-06-29,18.97,18.97,18.54,18.73,5769100,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
+2022-06-30,18.41,19.19,18.4,19.05,6722730,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
+2022-07-01,19.08,19.33,19.02,19.32,2959796,USD,NASDAQ,iShares Global Clean Energy,ICLN,"electricity, gas and water supply",etf,external
 2020-01-02,18.97,19.16,18.97,19.1,48636,USD,NYSE,iShares MSCI Global Energy Producers,FILL,"electricity, gas and water supply",etf,external
 2020-01-03,19.3,19.39,19.15,19.22,19691,USD,NYSE,iShares MSCI Global Energy Producers,FILL,"electricity, gas and water supply",etf,external
 2020-01-06,19.3,19.51,19.3,19.46,259498,USD,NYSE,iShares MSCI Global Energy Producers,FILL,"electricity, gas and water supply",etf,external
@@ -1923,6 +1941,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,24.06,24.12,23.29,23.71,70439,USD,NYSE,iShares MSCI Global Energy Producers,FILL,"electricity, gas and water supply",etf,external
 2022-06-16,23.05,23.12,22.4,22.6,139415,USD,NYSE,iShares MSCI Global Energy Producers,FILL,"electricity, gas and water supply",etf,external
 2022-06-17,22.52,22.57,21.23,21.46,140246,USD,NYSE,iShares MSCI Global Energy Producers,FILL,"electricity, gas and water supply",etf,external
+2022-06-21,22.01,22.53,22.01,22.34,102678,USD,NYSE,iShares MSCI Global Energy Producers,FILL,"electricity, gas and water supply",etf,external
+2022-06-22,21.47,21.78,21.37,21.39,42008,USD,NYSE,iShares MSCI Global Energy Producers,FILL,"electricity, gas and water supply",etf,external
+2022-06-23,21.48,21.49,20.5,20.71,110449,USD,NYSE,iShares MSCI Global Energy Producers,FILL,"electricity, gas and water supply",etf,external
+2022-06-24,20.97,21.42,20.92,21.11,28576,USD,NYSE,iShares MSCI Global Energy Producers,FILL,"electricity, gas and water supply",etf,external
+2022-06-27,21.27,21.8,21.27,21.76,14435,USD,NYSE,iShares MSCI Global Energy Producers,FILL,"electricity, gas and water supply",etf,external
+2022-06-28,22.25,22.58,22.05,22.27,51474,USD,NYSE,iShares MSCI Global Energy Producers,FILL,"electricity, gas and water supply",etf,external
+2022-06-29,22.51,22.51,21.6,21.6,21907,USD,NYSE,iShares MSCI Global Energy Producers,FILL,"electricity, gas and water supply",etf,external
+2022-06-30,21.21,21.46,21.12,21.23,15837,USD,NYSE,iShares MSCI Global Energy Producers,FILL,"electricity, gas and water supply",etf,external
+2022-07-01,21.3,21.38,20.73,21.28,24601,USD,NYSE,iShares MSCI Global Energy Producers,FILL,"electricity, gas and water supply",etf,external
 2020-01-02,69.1,69.1,68.56,68.97,158281,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
 2020-01-03,68.23,68.76,68.0,68.46,35877,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
 2020-01-06,68.14,68.79,68.08,68.78,52436,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
@@ -2574,7 +2601,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,76.99,76.99,75.71,76.31,186398,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
 2022-06-15,76.82,77.73,75.86,77.12,73748,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
 2022-06-16,75.72,76.17,75.33,76.08,203496,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
-2022-06-17,76.44,76.91,75.95,75.99,101070,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
+2022-06-17,76.11,76.92,75.95,75.99,101070,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
+2022-06-21,77.02,78.04,76.82,77.72,336140,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
+2022-06-22,77.28,79.42,77.28,78.65,84576,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
+2022-06-23,78.9,80.3,78.9,80.22,287590,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
+2022-06-24,81.15,81.92,80.74,81.87,120411,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
+2022-06-27,81.98,82.51,81.63,82.15,288109,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
+2022-06-28,82.39,82.5,80.66,80.75,45608,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
+2022-06-29,81.02,81.76,80.51,81.35,67060,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
+2022-06-30,80.66,81.58,80.41,81.14,429780,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
+2022-07-01,80.95,82.1,80.42,81.97,150590,USD,NYSE,iShares Global Healthcare,IXJ,health and social services,etf,external
 2020-01-02,48.09,48.09,47.65,47.82,208902,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
 2020-01-03,47.41,47.72,47.41,47.52,312036,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
 2020-01-06,47.52,47.75,47.5,47.68,220940,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
@@ -3195,7 +3231,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,46.91,46.91,45.68,46.11,745335,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
 2022-06-15,46.35,46.85,45.7,46.42,2204765,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
 2022-06-16,45.77,45.77,45.27,45.35,728389,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
-2022-06-17,45.54,45.69,44.8,45.28,644689,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
+2022-06-17,45.54,45.7,44.8,45.28,644689,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
+2022-06-21,45.83,46.3,45.74,46.16,2357793,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
+2022-06-22,45.53,46.18,45.45,45.93,512678,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
+2022-06-23,45.94,46.2,45.67,46.18,580459,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
+2022-06-24,46.5,46.95,46.31,46.95,762713,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
+2022-06-27,46.86,47.2,46.72,47.03,597352,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
+2022-06-28,47.52,47.77,47.0,47.0,597624,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
+2022-06-29,47.09,47.21,46.76,46.81,438181,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
+2022-06-30,46.15,46.84,46.05,46.75,495033,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
+2022-07-01,46.69,47.42,46.52,47.32,547484,USD,NASDAQ,iShares Global Infrastructure,IGF,construction,etf,external
 2020-01-02,35.38,35.71,35.38,35.7,308201,USD,NYSE,iShares Global Tech,IXN,information and communications,etf,external
 2020-01-03,35.18,35.48,35.18,35.27,309437,USD,NYSE,iShares Global Tech,IXN,information and communications,etf,external
 2020-01-06,34.95,35.38,34.89,35.37,313673,USD,NYSE,iShares Global Tech,IXN,information and communications,etf,external
@@ -3848,6 +3893,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,46.08,47.06,45.5,46.47,361374,USD,NYSE,iShares Global Tech,IXN,information and communications,etf,external
 2022-06-16,45.3,45.34,44.28,44.6,540648,USD,NYSE,iShares Global Tech,IXN,information and communications,etf,external
 2022-06-17,44.6,45.36,44.32,45.01,444150,USD,NYSE,iShares Global Tech,IXN,information and communications,etf,external
+2022-06-21,45.71,46.35,45.59,46.04,544354,USD,NYSE,iShares Global Tech,IXN,information and communications,etf,external
+2022-06-22,45.43,46.35,45.33,45.72,299286,USD,NYSE,iShares Global Tech,IXN,information and communications,etf,external
+2022-06-23,46.03,46.35,45.63,46.32,138076,USD,NYSE,iShares Global Tech,IXN,information and communications,etf,external
+2022-06-24,46.85,47.99,46.85,47.95,151127,USD,NYSE,iShares Global Tech,IXN,information and communications,etf,external
+2022-06-27,48.15,48.25,47.52,47.64,169039,USD,NYSE,iShares Global Tech,IXN,information and communications,etf,external
+2022-06-28,47.76,48.13,46.29,46.29,468869,USD,NYSE,iShares Global Tech,IXN,information and communications,etf,external
+2022-06-29,46.15,46.53,45.88,46.27,165513,USD,NYSE,iShares Global Tech,IXN,information and communications,etf,external
+2022-06-30,45.64,46.18,44.95,45.7,325481,USD,NYSE,iShares Global Tech,IXN,information and communications,etf,external
+2022-07-01,45.27,45.64,44.86,45.57,181908,USD,NYSE,iShares Global Tech,IXN,information and communications,etf,external
 2020-01-02,55.72,55.74,55.22,55.32,23595,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
 2020-01-03,55.01,55.42,55.01,55.27,29112,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
 2020-01-06,55.16,55.5,55.16,55.44,22628,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
@@ -4496,7 +4550,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,55.98,56.06,54.98,55.32,171503,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
 2022-06-15,55.82,56.17,55.08,55.77,122807,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
 2022-06-16,54.98,55.63,54.77,55.28,151678,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
-2022-06-17,55.52,55.6,55.04,55.23,74784,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
+2022-06-17,55.44,55.67,55.02,55.23,74784,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
+2022-06-21,55.87,56.49,55.76,56.36,136829,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
+2022-06-22,56.17,56.69,56.06,56.42,83307,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
+2022-06-23,56.58,57.29,56.58,57.22,141123,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
+2022-06-24,57.89,58.63,57.81,58.58,50409,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
+2022-06-27,58.48,58.55,58.31,58.39,120609,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
+2022-06-28,58.56,58.81,57.67,57.73,70541,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
+2022-06-29,57.72,58.1,57.7,57.89,40703,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
+2022-06-30,57.43,58.02,57.14,57.82,92208,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
+2022-07-01,57.65,58.51,57.55,58.4,90815,USD,NYSE,iShares Global Consumer Staples,KXI,wholesale and retail trade,etf,external
 2020-01-02,67.54,67.54,66.7,66.81,72482,USD,NASDAQ,iShares Global Timber & Forestry,WOOD,"agriculture, fishing, mining, quarrying",etf,external
 2020-01-03,66.04,66.42,66.0,66.27,139135,USD,NASDAQ,iShares Global Timber & Forestry,WOOD,"agriculture, fishing, mining, quarrying",etf,external
 2020-01-06,66.07,66.37,65.81,66.14,246713,USD,NASDAQ,iShares Global Timber & Forestry,WOOD,"agriculture, fishing, mining, quarrying",etf,external
@@ -5118,6 +5181,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,77.81,78.55,76.98,77.99,14604,USD,NASDAQ,iShares Global Timber & Forestry,WOOD,"agriculture, fishing, mining, quarrying",etf,external
 2022-06-16,76.21,76.36,75.11,75.19,78617,USD,NASDAQ,iShares Global Timber & Forestry,WOOD,"agriculture, fishing, mining, quarrying",etf,external
 2022-06-17,75.24,75.64,74.29,75.01,66025,USD,NASDAQ,iShares Global Timber & Forestry,WOOD,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-21,76.17,76.42,75.75,75.86,23309,USD,NASDAQ,iShares Global Timber & Forestry,WOOD,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-22,74.67,75.75,74.67,74.75,12467,USD,NASDAQ,iShares Global Timber & Forestry,WOOD,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-23,74.31,74.31,72.95,73.5,14316,USD,NASDAQ,iShares Global Timber & Forestry,WOOD,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-24,74.29,75.83,74.29,75.82,18456,USD,NASDAQ,iShares Global Timber & Forestry,WOOD,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-27,75.75,76.45,75.45,75.68,23829,USD,NASDAQ,iShares Global Timber & Forestry,WOOD,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-28,76.51,76.51,74.9,75.09,52122,USD,NASDAQ,iShares Global Timber & Forestry,WOOD,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-29,75.0,75.21,74.01,74.73,14065,USD,NASDAQ,iShares Global Timber & Forestry,WOOD,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-30,73.4,74.88,73.1,74.41,13972,USD,NASDAQ,iShares Global Timber & Forestry,WOOD,"agriculture, fishing, mining, quarrying",etf,external
+2022-07-01,73.81,74.99,73.36,74.8,15882,USD,NASDAQ,iShares Global Timber & Forestry,WOOD,"agriculture, fishing, mining, quarrying",etf,external
 2020-01-02,29.0,29.11,29.0,29.11,772,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
 2020-01-03,28.9,28.9,28.85,28.85,370,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
 2020-01-06,28.66,28.84,28.66,28.84,1096,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
@@ -5766,7 +5838,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,41.15,41.72,41.05,41.39,128799,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
 2022-06-15,41.83,42.13,41.21,41.73,69564,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
 2022-06-16,40.66,41.05,40.16,40.4,268918,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
-2022-06-17,40.31,40.6,39.76,40.05,189429,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-17,40.31,40.6,39.76,40.05,189434,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-21,40.7,41.13,40.61,40.85,93599,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-22,40.14,40.36,39.83,39.98,131328,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-23,40.0,40.0,38.1,38.21,361478,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-24,38.42,39.53,38.36,39.4,123355,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-27,39.6,40.2,39.6,40.04,88208,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-28,40.51,40.95,39.88,39.92,49987,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-29,40.06,40.06,39.35,39.52,67210,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-30,39.01,39.55,38.8,39.19,89978,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
+2022-07-01,39.0,39.43,38.48,39.2,55399,USD,NYSE,iShares MSCI Global Agriculture Producers,VEGI,"agriculture, fishing, mining, quarrying",etf,external
 2020-01-02,30.13,30.18,29.96,30.0,52732,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
 2020-01-03,29.75,29.83,29.28,29.53,393332,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
 2020-01-06,29.22,29.45,29.22,29.38,77293,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
@@ -6411,7 +6492,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,40.23,40.23,38.93,39.29,728139,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
 2022-06-15,40.11,40.71,39.47,40.35,256127,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
 2022-06-16,39.0,39.36,38.68,38.9,438169,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
-2022-06-17,38.68,38.68,37.63,37.93,1819057,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-17,38.64,38.68,37.63,37.93,1819057,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-21,38.12,38.54,38.06,38.1,207405,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-22,36.99,36.99,36.4,36.55,360370,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-23,36.26,36.38,34.93,35.33,395704,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-24,35.91,36.64,35.56,36.62,267289,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-27,36.9,37.39,36.78,37.13,263858,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-28,37.43,37.91,36.96,37.06,846831,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-29,36.98,37.24,36.4,36.69,837539,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-30,35.77,36.0,35.17,35.62,408971,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
+2022-07-01,34.91,35.33,34.22,35.03,235717,USD,NYSE,iShares MSCI Global Metals & Mining Producers,PICK,"agriculture, fishing, mining, quarrying",etf,external
 2020-01-02,69.24,69.57,69.19,69.57,17744,USD,NYSE,iShares Global Financials,IXG,banks,etf,external
 2020-01-03,68.7,69.08,68.7,68.89,106675,USD,NYSE,iShares Global Financials,IXG,banks,etf,external
 2020-01-06,68.34,68.79,68.34,68.74,12380,USD,NYSE,iShares Global Financials,IXG,banks,etf,external
@@ -7064,6 +7154,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,66.14,66.82,65.34,66.36,78150,USD,NYSE,iShares Global Financials,IXG,banks,etf,external
 2022-06-16,64.8,64.99,64.21,64.69,111789,USD,NYSE,iShares Global Financials,IXG,banks,etf,external
 2022-06-17,64.8,65.3,64.27,64.68,113086,USD,NYSE,iShares Global Financials,IXG,banks,etf,external
+2022-06-21,65.91,66.4,65.91,66.2,81006,USD,NYSE,iShares Global Financials,IXG,banks,etf,external
+2022-06-22,65.32,66.27,65.32,65.83,89125,USD,NYSE,iShares Global Financials,IXG,banks,etf,external
+2022-06-23,65.66,65.69,64.47,65.17,51749,USD,NYSE,iShares Global Financials,IXG,banks,etf,external
+2022-06-24,65.7,67.16,65.7,67.16,55901,USD,NYSE,iShares Global Financials,IXG,banks,etf,external
+2022-06-27,67.35,67.42,66.83,67.0,32760,USD,NYSE,iShares Global Financials,IXG,banks,etf,external
+2022-06-28,67.63,68.18,66.58,66.6,127354,USD,NYSE,iShares Global Financials,IXG,banks,etf,external
+2022-06-29,66.58,66.78,66.14,66.28,43528,USD,NYSE,iShares Global Financials,IXG,banks,etf,external
+2022-06-30,65.17,65.98,64.73,65.74,44464,USD,NYSE,iShares Global Financials,IXG,banks,etf,external
+2022-07-01,65.39,66.39,64.9,66.26,54195,USD,NYSE,iShares Global Financials,IXG,banks,etf,external
 2020-01-02,69.24,69.57,69.19,69.57,17744,USD,NYSE,iShares Global Financials,IXG,non-bank financial institutions,etf,external
 2020-01-03,68.7,69.08,68.7,68.89,106675,USD,NYSE,iShares Global Financials,IXG,non-bank financial institutions,etf,external
 2020-01-06,68.34,68.79,68.34,68.74,12380,USD,NYSE,iShares Global Financials,IXG,non-bank financial institutions,etf,external
@@ -7716,6 +7815,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,66.14,66.82,65.34,66.36,78150,USD,NYSE,iShares Global Financials,IXG,non-bank financial institutions,etf,external
 2022-06-16,64.8,64.99,64.21,64.69,111789,USD,NYSE,iShares Global Financials,IXG,non-bank financial institutions,etf,external
 2022-06-17,64.8,65.3,64.27,64.68,113086,USD,NYSE,iShares Global Financials,IXG,non-bank financial institutions,etf,external
+2022-06-21,65.91,66.4,65.91,66.2,81006,USD,NYSE,iShares Global Financials,IXG,non-bank financial institutions,etf,external
+2022-06-22,65.32,66.27,65.32,65.83,89125,USD,NYSE,iShares Global Financials,IXG,non-bank financial institutions,etf,external
+2022-06-23,65.66,65.69,64.47,65.17,51749,USD,NYSE,iShares Global Financials,IXG,non-bank financial institutions,etf,external
+2022-06-24,65.7,67.16,65.7,67.16,55901,USD,NYSE,iShares Global Financials,IXG,non-bank financial institutions,etf,external
+2022-06-27,67.35,67.42,66.83,67.0,32760,USD,NYSE,iShares Global Financials,IXG,non-bank financial institutions,etf,external
+2022-06-28,67.63,68.18,66.58,66.6,127354,USD,NYSE,iShares Global Financials,IXG,non-bank financial institutions,etf,external
+2022-06-29,66.58,66.78,66.14,66.28,43528,USD,NYSE,iShares Global Financials,IXG,non-bank financial institutions,etf,external
+2022-06-30,65.17,65.98,64.73,65.74,44464,USD,NYSE,iShares Global Financials,IXG,non-bank financial institutions,etf,external
+2022-07-01,65.39,66.39,64.9,66.26,54195,USD,NYSE,iShares Global Financials,IXG,non-bank financial institutions,etf,external
 2020-01-02,61.95,62.19,61.77,62.17,9909,USD,NYSE,iShares Global Telecom,IXP,information and communications,etf,external
 2020-01-03,61.51,62.08,61.51,61.89,12775,USD,NYSE,iShares Global Telecom,IXP,information and communications,etf,external
 2020-01-06,61.49,62.48,61.49,62.48,27844,USD,NYSE,iShares Global Telecom,IXP,information and communications,etf,external
@@ -8368,6 +8476,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,61.22,62.34,60.9,61.85,144616,USD,NYSE,iShares Global Telecom,IXP,information and communications,etf,external
 2022-06-16,60.43,60.43,59.55,59.84,1685484,USD,NYSE,iShares Global Telecom,IXP,information and communications,etf,external
 2022-06-17,60.16,60.74,59.71,60.48,92416,USD,NYSE,iShares Global Telecom,IXP,information and communications,etf,external
+2022-06-21,61.75,61.83,61.24,61.34,7598,USD,NYSE,iShares Global Telecom,IXP,information and communications,etf,external
+2022-06-22,61.19,61.86,61.19,61.41,7149,USD,NYSE,iShares Global Telecom,IXP,information and communications,etf,external
+2022-06-23,61.66,61.94,61.26,61.91,8228,USD,NYSE,iShares Global Telecom,IXP,information and communications,etf,external
+2022-06-24,62.54,63.88,62.54,63.88,5717,USD,NYSE,iShares Global Telecom,IXP,information and communications,etf,external
+2022-06-27,63.96,63.96,63.1,63.19,8322,USD,NYSE,iShares Global Telecom,IXP,information and communications,etf,external
+2022-06-28,63.49,63.67,61.76,61.78,7663,USD,NYSE,iShares Global Telecom,IXP,information and communications,etf,external
+2022-06-29,61.88,62.12,61.73,61.93,14669,USD,NYSE,iShares Global Telecom,IXP,information and communications,etf,external
+2022-06-30,60.71,61.68,60.68,61.18,13555,USD,NYSE,iShares Global Telecom,IXP,information and communications,etf,external
+2022-07-01,60.85,61.56,60.54,61.56,15180,USD,NYSE,iShares Global Telecom,IXP,information and communications,etf,external
 2020-01-02,58.93,58.93,58.12,58.28,38717,USD,NYSE,iShares Global Utilities,JXI,"electricity, gas and water supply",etf,external
 2020-01-03,58.12,58.41,58.05,58.21,38783,USD,NYSE,iShares Global Utilities,JXI,"electricity, gas and water supply",etf,external
 2020-01-06,58.21,58.35,58.1,58.22,11669,USD,NYSE,iShares Global Utilities,JXI,"electricity, gas and water supply",etf,external
@@ -9020,6 +9137,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,58.39,59.11,57.87,58.33,12608,USD,NYSE,iShares Global Utilities,JXI,"electricity, gas and water supply",etf,external
 2022-06-16,57.34,57.42,56.95,57.19,13629,USD,NYSE,iShares Global Utilities,JXI,"electricity, gas and water supply",etf,external
 2022-06-17,57.61,57.61,56.5,56.85,8261,USD,NYSE,iShares Global Utilities,JXI,"electricity, gas and water supply",etf,external
+2022-06-21,57.21,57.65,57.03,57.43,77325,USD,NYSE,iShares Global Utilities,JXI,"electricity, gas and water supply",etf,external
+2022-06-22,57.5,58.17,57.5,57.88,5992,USD,NYSE,iShares Global Utilities,JXI,"electricity, gas and water supply",etf,external
+2022-06-23,58.11,58.87,58.05,58.87,7487,USD,NYSE,iShares Global Utilities,JXI,"electricity, gas and water supply",etf,external
+2022-06-24,59.18,59.86,59.16,59.86,6130,USD,NYSE,iShares Global Utilities,JXI,"electricity, gas and water supply",etf,external
+2022-06-27,59.69,60.22,59.65,60.08,55134,USD,NYSE,iShares Global Utilities,JXI,"electricity, gas and water supply",etf,external
+2022-06-28,60.45,60.68,60.01,60.08,24661,USD,NYSE,iShares Global Utilities,JXI,"electricity, gas and water supply",etf,external
+2022-06-29,60.17,60.17,59.83,60.0,3497,USD,NYSE,iShares Global Utilities,JXI,"electricity, gas and water supply",etf,external
+2022-06-30,59.2,60.36,59.2,60.11,5268,USD,NYSE,iShares Global Utilities,JXI,"electricity, gas and water supply",etf,external
+2022-07-01,60.29,61.59,60.29,61.51,178263,USD,NYSE,iShares Global Utilities,JXI,"electricity, gas and water supply",etf,external
 2020-01-02,98.09,98.71,97.79,98.71,36214,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
 2020-01-03,97.41,98.04,97.41,98.04,19874,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
 2020-01-06,97.58,98.03,97.58,98.03,1729,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
@@ -9670,7 +9796,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,97.69,97.8,96.37,96.89,30381,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
 2022-06-15,97.71,99.15,96.64,98.16,35689,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
 2022-06-16,95.96,95.96,94.97,95.1,5196,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
-2022-06-17,95.03,95.39,94.11,94.92,17958,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
+2022-06-17,95.08,95.39,94.11,94.92,17958,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
+2022-06-21,96.12,96.34,95.6,96.08,52246,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
+2022-06-22,94.81,95.94,94.48,95.47,11153,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
+2022-06-23,95.27,95.27,93.93,94.74,4344,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
+2022-06-24,95.8,97.7,95.8,97.7,12960,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
+2022-06-27,98.18,98.27,97.64,97.77,8298,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
+2022-06-28,98.48,99.25,96.71,96.79,126258,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
+2022-06-29,96.83,96.83,96.05,96.16,5487,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
+2022-06-30,94.68,96.35,94.63,96.13,24355,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
+2022-07-01,95.75,96.77,95.61,96.77,3708,USD,NYSE,iShares Global Industrials,EXI,manufacturing,etf,external
 2020-01-02,67.82,68.05,67.48,67.62,20791,USD,NYSE,iShares Global Materials,MXI,"agriculture, fishing, mining, quarrying",etf,external
 2020-01-03,66.93,67.08,66.54,66.56,33485,USD,NYSE,iShares Global Materials,MXI,"agriculture, fishing, mining, quarrying",etf,external
 2020-01-06,66.36,66.61,66.24,66.4,13482,USD,NYSE,iShares Global Materials,MXI,"agriculture, fishing, mining, quarrying",etf,external
@@ -10320,6 +10455,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,79.69,80.16,78.2,79.7,38938,USD,NYSE,iShares Global Materials,MXI,"agriculture, fishing, mining, quarrying",etf,external
 2022-06-16,77.46,77.74,76.66,77.24,138693,USD,NYSE,iShares Global Materials,MXI,"agriculture, fishing, mining, quarrying",etf,external
 2022-06-17,76.58,76.86,75.41,76.2,55005,USD,NYSE,iShares Global Materials,MXI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-21,76.91,77.37,76.71,77.04,100367,USD,NYSE,iShares Global Materials,MXI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-22,75.21,76.04,74.82,75.43,76305,USD,NYSE,iShares Global Materials,MXI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-23,74.92,74.94,73.17,73.73,60495,USD,NYSE,iShares Global Materials,MXI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-24,74.39,76.33,74.23,76.33,31028,USD,NYSE,iShares Global Materials,MXI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-27,76.36,76.71,76.11,76.34,30665,USD,NYSE,iShares Global Materials,MXI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-28,77.1,77.48,75.76,75.83,32085,USD,NYSE,iShares Global Materials,MXI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-29,75.92,75.92,74.88,75.16,151976,USD,NYSE,iShares Global Materials,MXI,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-30,73.6,74.26,72.97,73.9,33357,USD,NYSE,iShares Global Materials,MXI,"agriculture, fishing, mining, quarrying",etf,external
+2022-07-01,72.96,73.8,71.96,73.73,94407,USD,NYSE,iShares Global Materials,MXI,"agriculture, fishing, mining, quarrying",etf,external
 2020-01-02,126.47,127.18,126.47,127.18,2652,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
 2020-01-03,125.82,126.03,125.82,126.03,562,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
 2020-01-06,125.35,126.21,125.35,126.21,1414,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
@@ -10970,7 +11114,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,126.21,126.7,124.88,125.73,16726,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
 2022-06-15,127.06,129.72,126.74,128.95,11442,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
 2022-06-16,125.33,125.33,122.76,123.32,16820,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
-2022-06-17,124.49,125.61,123.67,124.88,37768,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
+2022-06-17,124.52,125.61,123.6,124.88,37768,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
+2022-06-21,127.34,128.75,127.2,127.89,7278,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
+2022-06-22,126.12,128.82,126.12,126.87,32343,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
+2022-06-23,128.34,128.83,127.34,128.57,29010,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
+2022-06-24,131.25,133.07,131.25,133.07,10415,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
+2022-06-27,133.59,133.59,132.12,132.32,6065,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
+2022-06-28,134.04,134.07,129.18,129.21,6346,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
+2022-06-29,128.03,128.93,128.03,128.65,6603,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
+2022-06-30,126.43,127.85,125.28,126.99,44346,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
+2022-07-01,126.44,128.65,126.44,128.58,4714,USD,NYSE,iShares Global Consumer Discretionary,RXI,wholesale and retail trade,etf,external
 2020-01-02,126.47,127.18,126.47,127.18,2652,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
 2020-01-03,125.82,126.03,125.82,126.03,562,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
 2020-01-06,125.35,126.21,125.35,126.21,1414,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
@@ -11621,7 +11774,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,126.21,126.7,124.88,125.73,16726,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
 2022-06-15,127.06,129.72,126.74,128.95,11442,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
 2022-06-16,125.33,125.33,122.76,123.32,16820,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
-2022-06-17,124.49,125.61,123.67,124.88,37768,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
+2022-06-17,124.52,125.61,123.6,124.88,37768,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
+2022-06-21,127.34,128.75,127.2,127.89,7278,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
+2022-06-22,126.12,128.82,126.12,126.87,32343,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
+2022-06-23,128.34,128.83,127.34,128.57,29010,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
+2022-06-24,131.25,133.07,131.25,133.07,10415,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
+2022-06-27,133.59,133.59,132.12,132.32,6065,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
+2022-06-28,134.04,134.07,129.18,129.21,6346,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
+2022-06-29,128.03,128.93,128.03,128.65,6603,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
+2022-06-30,126.43,127.85,125.28,126.99,44346,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
+2022-07-01,126.44,128.65,126.44,128.58,4714,USD,NYSE,iShares Global Consumer Discretionary,RXI,accomodation and food service activities,etf,external
 2020-01-02,31.38,31.44,31.3,31.44,6384,USD,NYSE,iShares Edge MSCI Multifactor Global,ACWF,others,etf,external
 2020-01-03,31.16,31.23,31.14,31.17,4242,USD,NYSE,iShares Edge MSCI Multifactor Global,ACWF,others,etf,external
 2020-01-06,31.06,31.2,31.05,31.16,6616,USD,NYSE,iShares Edge MSCI Multifactor Global,ACWF,others,etf,external
@@ -12273,6 +12435,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,31.57,31.77,31.22,31.69,22507,USD,NYSE,iShares Edge MSCI Multifactor Global,ACWF,others,etf,external
 2022-06-16,31.13,31.13,30.54,30.62,18432,USD,NYSE,iShares Edge MSCI Multifactor Global,ACWF,others,etf,external
 2022-06-17,30.77,30.83,30.4,30.61,10033,USD,NYSE,iShares Edge MSCI Multifactor Global,ACWF,others,etf,external
+2022-06-21,31.03,31.23,30.98,31.08,45217,USD,NYSE,iShares Edge MSCI Multifactor Global,ACWF,others,etf,external
+2022-06-22,30.65,31.07,30.65,30.86,18402,USD,NYSE,iShares Edge MSCI Multifactor Global,ACWF,others,etf,external
+2022-06-23,30.82,30.96,30.73,30.85,1878,USD,NYSE,iShares Edge MSCI Multifactor Global,ACWF,others,etf,external
+2022-06-24,31.16,31.65,31.13,31.65,33251,USD,NYSE,iShares Edge MSCI Multifactor Global,ACWF,others,etf,external
+2022-06-27,31.79,31.82,31.6,31.68,7564,USD,NYSE,iShares Edge MSCI Multifactor Global,ACWF,others,etf,external
+2022-06-28,31.97,31.97,31.43,31.43,4322,USD,NYSE,iShares Edge MSCI Multifactor Global,ACWF,others,etf,external
+2022-06-29,31.47,31.47,31.23,31.32,6223,USD,NYSE,iShares Edge MSCI Multifactor Global,ACWF,others,etf,external
+2022-06-30,31.05,31.21,30.96,31.06,5365,USD,NYSE,iShares Edge MSCI Multifactor Global,ACWF,others,etf,external
+2022-07-01,30.97,31.21,30.75,31.21,4962,USD,NYSE,iShares Edge MSCI Multifactor Global,ACWF,others,etf,external
 2020-01-02,27.02,27.22,27.02,27.22,2379,USD,NYSE,iShares Cybersecurity and Tech,IHAK,information and communications,etf,external
 2020-01-03,26.93,27.28,26.93,27.26,3891,USD,NYSE,iShares Cybersecurity and Tech,IHAK,information and communications,etf,external
 2020-01-06,27.5,27.59,27.23,27.59,14973,USD,NYSE,iShares Cybersecurity and Tech,IHAK,information and communications,etf,external
@@ -12924,6 +13095,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,34.46,35.24,34.3,34.85,74477,USD,NYSE,iShares Cybersecurity and Tech,IHAK,information and communications,etf,external
 2022-06-16,33.94,34.09,33.22,33.44,75388,USD,NYSE,iShares Cybersecurity and Tech,IHAK,information and communications,etf,external
 2022-06-17,33.63,34.43,33.63,34.23,94914,USD,NYSE,iShares Cybersecurity and Tech,IHAK,information and communications,etf,external
+2022-06-21,34.71,35.33,34.71,34.88,68459,USD,NYSE,iShares Cybersecurity and Tech,IHAK,information and communications,etf,external
+2022-06-22,34.57,35.36,34.47,34.9,56183,USD,NYSE,iShares Cybersecurity and Tech,IHAK,information and communications,etf,external
+2022-06-23,35.1,35.95,34.9,35.87,79725,USD,NYSE,iShares Cybersecurity and Tech,IHAK,information and communications,etf,external
+2022-06-24,36.16,37.05,36.16,37.02,52211,USD,NYSE,iShares Cybersecurity and Tech,IHAK,information and communications,etf,external
+2022-06-27,37.05,37.1,36.42,36.59,27433,USD,NYSE,iShares Cybersecurity and Tech,IHAK,information and communications,etf,external
+2022-06-28,36.64,36.87,35.5,35.65,56805,USD,NYSE,iShares Cybersecurity and Tech,IHAK,information and communications,etf,external
+2022-06-29,35.63,35.65,35.25,35.57,81794,USD,NYSE,iShares Cybersecurity and Tech,IHAK,information and communications,etf,external
+2022-06-30,35.14,35.3,34.52,35.03,47383,USD,NYSE,iShares Cybersecurity and Tech,IHAK,information and communications,etf,external
+2022-07-01,34.93,35.68,34.85,35.66,44906,USD,NYSE,iShares Cybersecurity and Tech,IHAK,information and communications,etf,external
 2020-01-02,13.92,13.92,13.92,13.92,8,USD,NYSE,Global X China Industrials,CHII,manufacturing,etf,external
 2020-01-03,14.02,14.06,13.9,13.9,1708,USD,NYSE,Global X China Industrials,CHII,manufacturing,etf,external
 2020-01-06,13.82,13.96,13.82,13.88,641,USD,NYSE,Global X China Industrials,CHII,manufacturing,etf,external
@@ -13575,6 +13755,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,14.1,14.13,14.1,14.13,448,USD,NYSE,Global X China Industrials,CHII,manufacturing,etf,external
 2022-06-16,13.72,13.78,13.72,13.78,557,USD,NYSE,Global X China Industrials,CHII,manufacturing,etf,external
 2022-06-17,13.91,13.91,13.91,13.91,313,USD,NYSE,Global X China Industrials,CHII,manufacturing,etf,external
+2022-06-21,14.2,14.2,14.2,14.2,276,USD,NYSE,Global X China Industrials,CHII,manufacturing,etf,external
+2022-06-22,14.02,14.07,14.02,14.07,570,USD,NYSE,Global X China Industrials,CHII,manufacturing,etf,external
+2022-06-23,14.27,14.27,14.27,14.27,5,USD,NYSE,Global X China Industrials,CHII,manufacturing,etf,external
+2022-06-24,14.58,14.58,14.58,14.58,85,USD,NYSE,Global X China Industrials,CHII,manufacturing,etf,external
+2022-06-27,14.65,14.7,14.61,14.61,8667,USD,NYSE,Global X China Industrials,CHII,manufacturing,etf,external
+2022-06-28,14.83,14.93,14.76,14.76,3157,USD,NYSE,Global X China Industrials,CHII,manufacturing,etf,external
+2022-06-29,14.5,14.5,14.5,14.5,100,USD,NYSE,Global X China Industrials,CHII,manufacturing,etf,external
+2022-06-30,14.6,14.75,14.46,14.75,489,USD,NYSE,Global X China Industrials,CHII,manufacturing,etf,external
+2022-07-01,14.61,14.74,14.61,14.66,49122,USD,NYSE,Global X China Industrials,CHII,manufacturing,etf,external
 2020-01-02,18.73,19.25,18.73,19.2,84201,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
 2020-01-03,18.9,19.15,18.88,19.07,125219,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
 2020-01-06,18.88,18.97,18.84,18.95,79455,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
@@ -14225,7 +14414,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,21.3,21.95,21.19,21.82,98482,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
 2022-06-15,21.97,22.48,21.79,22.27,121470,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
 2022-06-16,21.46,21.67,21.19,21.48,119806,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
-2022-06-17,22.46,22.5,21.82,22.07,111331,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
+2022-06-17,22.46,22.5,21.82,22.07,115632,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
+2022-06-21,22.67,22.86,22.5,22.78,309951,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
+2022-06-22,22.23,22.64,22.22,22.4,181357,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
+2022-06-23,22.97,23.23,22.66,22.95,115239,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
+2022-06-24,23.54,23.84,23.44,23.8,298059,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
+2022-06-27,24.4,24.5,23.91,23.96,267210,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
+2022-06-28,24.49,24.7,24.05,24.14,263293,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
+2022-06-29,23.55,23.86,23.38,23.7,531412,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
+2022-06-30,23.63,23.76,23.16,23.69,190672,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
+2022-07-01,23.67,23.87,23.4,23.76,141209,USD,NYSE,Global X China Consumer,CHIQ,wholesale and retail trade,etf,external
 2020-01-02,18.73,19.25,18.73,19.2,84201,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
 2020-01-03,18.9,19.15,18.88,19.07,125219,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
 2020-01-06,18.88,18.97,18.84,18.95,79455,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
@@ -14876,7 +15074,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,21.3,21.95,21.19,21.82,98482,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
 2022-06-15,21.97,22.48,21.79,22.27,121470,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
 2022-06-16,21.46,21.67,21.19,21.48,119806,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
-2022-06-17,22.46,22.5,21.82,22.07,111331,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
+2022-06-17,22.46,22.5,21.82,22.07,115632,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
+2022-06-21,22.67,22.86,22.5,22.78,309951,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
+2022-06-22,22.23,22.64,22.22,22.4,181357,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
+2022-06-23,22.97,23.23,22.66,22.95,115239,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
+2022-06-24,23.54,23.84,23.44,23.8,298059,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
+2022-06-27,24.4,24.5,23.91,23.96,267210,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
+2022-06-28,24.49,24.7,24.05,24.14,263293,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
+2022-06-29,23.55,23.86,23.38,23.7,531412,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
+2022-06-30,23.63,23.76,23.16,23.69,190672,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
+2022-07-01,23.67,23.87,23.4,23.76,141209,USD,NYSE,Global X China Consumer,CHIQ,accomodation and food service activities,etf,external
 2020-01-02,16.67,16.83,16.67,16.83,39768,USD,NYSE,Global X China Financials,CHIX,banks,etf,external
 2020-01-03,16.51,16.71,16.51,16.58,15714,USD,NYSE,Global X China Financials,CHIX,banks,etf,external
 2020-01-06,16.44,16.58,16.44,16.54,20650,USD,NYSE,Global X China Financials,CHIX,banks,etf,external
@@ -15528,6 +15735,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,13.19,13.39,13.19,13.32,42552,USD,NYSE,Global X China Financials,CHIX,banks,etf,external
 2022-06-16,13.03,13.09,12.98,13.06,44775,USD,NYSE,Global X China Financials,CHIX,banks,etf,external
 2022-06-17,13.14,13.19,13.03,13.11,54379,USD,NYSE,Global X China Financials,CHIX,banks,etf,external
+2022-06-21,13.33,13.38,13.3,13.33,46496,USD,NYSE,Global X China Financials,CHIX,banks,etf,external
+2022-06-22,13.22,13.27,13.15,13.27,60857,USD,NYSE,Global X China Financials,CHIX,banks,etf,external
+2022-06-23,13.37,13.4,13.29,13.33,4477,USD,NYSE,Global X China Financials,CHIX,banks,etf,external
+2022-06-24,13.38,13.4,13.31,13.38,17629,USD,NYSE,Global X China Financials,CHIX,banks,etf,external
+2022-06-27,13.5,13.51,13.44,13.49,16164,USD,NYSE,Global X China Financials,CHIX,banks,etf,external
+2022-06-28,13.64,13.65,13.56,13.56,41526,USD,NYSE,Global X China Financials,CHIX,banks,etf,external
+2022-06-29,13.57,13.57,13.46,13.47,14121,USD,NYSE,Global X China Financials,CHIX,banks,etf,external
+2022-06-30,13.49,13.58,13.47,13.56,61641,USD,NYSE,Global X China Financials,CHIX,banks,etf,external
+2022-07-01,13.56,13.57,13.47,13.57,7008,USD,NYSE,Global X China Financials,CHIX,banks,etf,external
 2020-01-02,16.67,16.83,16.67,16.83,39768,USD,NYSE,Global X China Financials,CHIX,non-bank financial institutions,etf,external
 2020-01-03,16.51,16.71,16.51,16.58,15714,USD,NYSE,Global X China Financials,CHIX,non-bank financial institutions,etf,external
 2020-01-06,16.44,16.58,16.44,16.54,20650,USD,NYSE,Global X China Financials,CHIX,non-bank financial institutions,etf,external
@@ -16179,6 +16395,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,13.19,13.39,13.19,13.32,42552,USD,NYSE,Global X China Financials,CHIX,non-bank financial institutions,etf,external
 2022-06-16,13.03,13.09,12.98,13.06,44775,USD,NYSE,Global X China Financials,CHIX,non-bank financial institutions,etf,external
 2022-06-17,13.14,13.19,13.03,13.11,54379,USD,NYSE,Global X China Financials,CHIX,non-bank financial institutions,etf,external
+2022-06-21,13.33,13.38,13.3,13.33,46496,USD,NYSE,Global X China Financials,CHIX,non-bank financial institutions,etf,external
+2022-06-22,13.22,13.27,13.15,13.27,60857,USD,NYSE,Global X China Financials,CHIX,non-bank financial institutions,etf,external
+2022-06-23,13.37,13.4,13.29,13.33,4477,USD,NYSE,Global X China Financials,CHIX,non-bank financial institutions,etf,external
+2022-06-24,13.38,13.4,13.31,13.38,17629,USD,NYSE,Global X China Financials,CHIX,non-bank financial institutions,etf,external
+2022-06-27,13.5,13.51,13.44,13.49,16164,USD,NYSE,Global X China Financials,CHIX,non-bank financial institutions,etf,external
+2022-06-28,13.64,13.65,13.56,13.56,41526,USD,NYSE,Global X China Financials,CHIX,non-bank financial institutions,etf,external
+2022-06-29,13.57,13.57,13.46,13.47,14121,USD,NYSE,Global X China Financials,CHIX,non-bank financial institutions,etf,external
+2022-06-30,13.49,13.58,13.47,13.56,61641,USD,NYSE,Global X China Financials,CHIX,non-bank financial institutions,etf,external
+2022-07-01,13.56,13.57,13.47,13.57,7008,USD,NYSE,Global X China Financials,CHIX,non-bank financial institutions,etf,external
 2020-01-02,22.13,22.13,21.79,22.02,7583,USD,NYSE,Global X MSCI China Consumer Staples,CHIS,wholesale and retail trade,etf,external
 2020-01-03,21.76,21.76,21.54,21.65,7948,USD,NYSE,Global X MSCI China Consumer Staples,CHIS,wholesale and retail trade,etf,external
 2020-01-06,21.68,21.68,21.19,21.59,10702,USD,NYSE,Global X MSCI China Consumer Staples,CHIS,wholesale and retail trade,etf,external
@@ -16832,6 +17057,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,23.18,23.44,23.18,23.37,3417,USD,NYSE,Global X MSCI China Consumer Staples,CHIS,wholesale and retail trade,etf,external
 2022-06-16,22.86,23.0,22.78,23.0,2401,USD,NYSE,Global X MSCI China Consumer Staples,CHIS,wholesale and retail trade,etf,external
 2022-06-17,23.79,23.79,23.2,23.61,21887,USD,NYSE,Global X MSCI China Consumer Staples,CHIS,wholesale and retail trade,etf,external
+2022-06-21,24.11,24.22,23.71,24.22,13159,USD,NYSE,Global X MSCI China Consumer Staples,CHIS,wholesale and retail trade,etf,external
+2022-06-22,23.78,24.17,23.78,23.85,5045,USD,NYSE,Global X MSCI China Consumer Staples,CHIS,wholesale and retail trade,etf,external
+2022-06-23,24.05,24.45,24.05,24.22,2549,USD,NYSE,Global X MSCI China Consumer Staples,CHIS,wholesale and retail trade,etf,external
+2022-06-24,24.82,24.85,24.42,24.84,7333,USD,NYSE,Global X MSCI China Consumer Staples,CHIS,wholesale and retail trade,etf,external
+2022-06-27,25.15,25.43,24.95,25.11,6893,USD,NYSE,Global X MSCI China Consumer Staples,CHIS,wholesale and retail trade,etf,external
+2022-06-28,25.78,25.8,25.21,25.52,5080,USD,NYSE,Global X MSCI China Consumer Staples,CHIS,wholesale and retail trade,etf,external
+2022-06-29,25.23,25.23,24.77,24.99,6566,USD,NYSE,Global X MSCI China Consumer Staples,CHIS,wholesale and retail trade,etf,external
+2022-06-30,25.79,26.13,25.61,25.81,70798,USD,NYSE,Global X MSCI China Consumer Staples,CHIS,wholesale and retail trade,etf,external
+2022-07-01,25.72,26.15,25.72,25.79,6878,USD,NYSE,Global X MSCI China Consumer Staples,CHIS,wholesale and retail trade,etf,external
 2020-01-02,17.46,17.53,17.39,17.53,1205,USD,NYSE,Global X China Materials,CHIM,"agriculture, fishing, mining, quarrying",etf,external
 2020-01-03,17.4,17.51,17.07,17.1,6679,USD,NYSE,Global X China Materials,CHIM,"agriculture, fishing, mining, quarrying",etf,external
 2020-01-06,17.35,17.48,17.35,17.36,1036,USD,NYSE,Global X China Materials,CHIM,"agriculture, fishing, mining, quarrying",etf,external
@@ -17484,6 +17718,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,21.71,21.71,21.64,21.64,420,USD,NYSE,Global X China Materials,CHIM,"agriculture, fishing, mining, quarrying",etf,external
 2022-06-16,21.11,21.16,21.11,21.16,949,USD,NYSE,Global X China Materials,CHIM,"agriculture, fishing, mining, quarrying",etf,external
 2022-06-17,21.48,21.48,21.48,21.48,10,USD,NYSE,Global X China Materials,CHIM,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-21,21.06,21.35,21.06,21.34,418,USD,NYSE,Global X China Materials,CHIM,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-22,21.18,21.19,21.18,21.19,202,USD,NYSE,Global X China Materials,CHIM,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-23,21.22,21.22,21.22,21.22,61,USD,NYSE,Global X China Materials,CHIM,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-24,20.98,21.31,20.98,21.31,579,USD,NYSE,Global X China Materials,CHIM,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-27,21.65,21.65,21.65,21.65,11,USD,NYSE,Global X China Materials,CHIM,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-28,22.02,22.02,21.82,21.82,11516,USD,NYSE,Global X China Materials,CHIM,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-29,21.14,21.32,20.95,21.01,2344,USD,NYSE,Global X China Materials,CHIM,"agriculture, fishing, mining, quarrying",etf,external
+2022-06-30,21.31,21.31,21.31,21.31,177,USD,NYSE,Global X China Materials,CHIM,"agriculture, fishing, mining, quarrying",etf,external
+2022-07-01,21.43,21.43,21.43,21.43,0,USD,NYSE,Global X China Materials,CHIM,"agriculture, fishing, mining, quarrying",etf,external
 2020-01-02,10.97,11.42,10.85,10.85,6690,USD,NYSE,Global X China Energy,CHIE,"electricity, gas and water supply",etf,external
 2020-01-03,10.96,10.96,10.96,10.96,7,USD,NYSE,Global X China Energy,CHIE,"electricity, gas and water supply",etf,external
 2020-01-06,11.19,11.19,10.94,10.94,1212,USD,NYSE,Global X China Energy,CHIE,"electricity, gas and water supply",etf,external
@@ -18137,6 +18380,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,16.07,16.07,15.75,15.78,34851,USD,NYSE,Global X China Energy,CHIE,"electricity, gas and water supply",etf,external
 2022-06-16,15.25,15.25,14.72,14.97,36702,USD,NYSE,Global X China Energy,CHIE,"electricity, gas and water supply",etf,external
 2022-06-17,15.05,15.05,14.75,14.84,30560,USD,NYSE,Global X China Energy,CHIE,"electricity, gas and water supply",etf,external
+2022-06-21,14.61,14.61,14.28,14.47,77862,USD,NYSE,Global X China Energy,CHIE,"electricity, gas and water supply",etf,external
+2022-06-22,14.17,14.18,14.07,14.1,17388,USD,NYSE,Global X China Energy,CHIE,"electricity, gas and water supply",etf,external
+2022-06-23,14.3,14.46,14.26,14.34,129601,USD,NYSE,Global X China Energy,CHIE,"electricity, gas and water supply",etf,external
+2022-06-24,14.4,14.4,14.1,14.21,5546,USD,NYSE,Global X China Energy,CHIE,"electricity, gas and water supply",etf,external
+2022-06-27,14.67,14.81,14.61,14.74,64016,USD,NYSE,Global X China Energy,CHIE,"electricity, gas and water supply",etf,external
+2022-06-28,15.03,15.3,15.03,15.14,30675,USD,NYSE,Global X China Energy,CHIE,"electricity, gas and water supply",etf,external
+2022-06-29,15.06,15.06,14.63,14.76,28296,USD,NYSE,Global X China Energy,CHIE,"electricity, gas and water supply",etf,external
+2022-06-30,14.73,14.78,14.66,14.72,9996,USD,NYSE,Global X China Energy,CHIE,"electricity, gas and water supply",etf,external
+2022-07-01,14.62,14.68,14.62,14.67,5164,USD,NYSE,Global X China Energy,CHIE,"electricity, gas and water supply",etf,external
 2020-01-02,196.17,198.84,195.24,197.14,202747,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
 2020-01-03,194.12,195.87,193.64,195.78,182855,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
 2020-01-06,194.93,194.93,192.74,194.61,290966,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
@@ -18784,7 +19036,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,213.7,215.73,210.42,212.27,318166,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
 2022-06-15,214.6,217.73,211.54,214.39,262787,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
 2022-06-16,209.42,209.9,206.21,207.48,276018,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
-2022-06-17,207.85,209.71,205.28,208.08,394173,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
+2022-06-17,208.38,209.81,205.17,208.08,394173,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
+2022-06-21,211.17,211.85,209.79,210.38,163070,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
+2022-06-22,208.24,211.42,208.2,209.81,155823,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
+2022-06-23,211.21,211.79,207.88,211.51,179959,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
+2022-06-24,213.23,219.71,213.23,219.28,176365,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
+2022-06-27,220.12,221.13,216.86,217.55,117374,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
+2022-06-28,219.31,222.54,214.65,214.84,166681,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
+2022-06-29,214.78,214.85,211.13,213.71,105361,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
+2022-06-30,210.73,214.24,208.54,212.9,200109,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
+2022-07-01,212.19,216.01,211.23,215.42,156610,USD,NYSE,iShares Transportation Average,IYT,transport and storage,etf,external
 2020-01-02,2825.0,2825.0,2785.0,2805.0,66938,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
 2020-01-03,2825.0,2855.0,2810.0,2825.0,93749,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
 2020-01-06,2825.0,2825.0,2765.0,2770.0,71059,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
@@ -19395,6 +19656,17 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,3005.0,3005.0,2855.0,2870.0,337383,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
 2022-06-16,2920.0,2945.0,2850.0,2850.0,2500,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
 2022-06-17,2805.0,2930.0,2790.0,2920.0,991103,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
+2022-06-20,2950.0,2950.0,2835.0,2855.0,426879,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
+2022-06-21,2880.0,2985.0,2850.0,2955.0,694542,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
+2022-06-22,3000.0,3005.0,2885.0,2885.0,467834,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
+2022-06-23,2895.0,2955.0,2815.0,2825.0,1011139,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
+2022-06-24,2825.0,2875.0,2790.0,2875.0,601237,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
+2022-06-27,2910.0,2995.0,2890.0,2985.0,451199,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
+2022-06-28,2975.0,3040.0,2975.0,3035.0,318474,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
+2022-06-29,2980.0,3100.0,2980.0,3080.0,598417,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
+2022-06-30,3085.0,3170.0,3070.0,3110.0,987415,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
+2022-07-01,3140.0,3140.0,3030.0,3075.0,888240,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
+2022-07-04,3100.0,3100.0,2910.0,2925.0,1501582,KRW,Seoul,MiraeAsset TIGER Shipbuilding & Transportation,139230,transport and storage,etf,external
 2020-01-02,84.41,84.89,84.08,84.89,323958,USD,NYSE,iShares US Industrials,IYJ,manufacturing,etf,external
 2020-01-03,84.12,84.77,84.12,84.7,49152,USD,NYSE,iShares US Industrials,IYJ,manufacturing,etf,external
 2020-01-06,84.17,84.62,84.12,84.62,212510,USD,NYSE,iShares US Industrials,IYJ,manufacturing,etf,external
@@ -20021,6 +20293,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,89.7,90.86,88.34,89.76,286331,USD,NYSE,iShares US Industrials,IYJ,manufacturing,etf,external
 2022-06-16,87.88,87.88,85.69,86.15,75395,USD,NYSE,iShares US Industrials,IYJ,manufacturing,etf,external
 2022-06-17,86.2,86.98,85.3,86.43,136034,USD,NYSE,iShares US Industrials,IYJ,manufacturing,etf,external
+2022-06-21,87.55,88.27,87.44,87.85,78760,USD,NYSE,iShares US Industrials,IYJ,manufacturing,etf,external
+2022-06-22,86.5,88.26,86.5,87.53,184018,USD,NYSE,iShares US Industrials,IYJ,manufacturing,etf,external
+2022-06-23,87.93,87.93,86.44,87.52,125803,USD,NYSE,iShares US Industrials,IYJ,manufacturing,etf,external
+2022-06-24,88.22,90.89,88.22,90.86,70900,USD,NYSE,iShares US Industrials,IYJ,manufacturing,etf,external
+2022-06-27,90.96,91.43,90.37,90.53,35451,USD,NYSE,iShares US Industrials,IYJ,manufacturing,etf,external
+2022-06-28,90.86,91.86,88.88,88.94,36661,USD,NYSE,iShares US Industrials,IYJ,manufacturing,etf,external
+2022-06-29,88.87,88.87,87.86,88.51,67388,USD,NYSE,iShares US Industrials,IYJ,manufacturing,etf,external
+2022-06-30,87.35,88.78,86.54,88.13,49145,USD,NYSE,iShares US Industrials,IYJ,manufacturing,etf,external
+2022-07-01,87.83,89.38,87.5,89.15,72910,USD,NYSE,iShares US Industrials,IYJ,manufacturing,etf,external
 2020-01-02,19.66,19.8,19.66,19.8,812160,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
 2020-01-03,19.4,19.52,19.4,19.42,584326,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
 2020-01-06,19.24,19.43,19.24,19.43,229938,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
@@ -20641,7 +20922,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,15.75,15.82,15.46,15.57,2205185,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
 2022-06-15,16.1,16.25,15.82,16.17,1413058,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
 2022-06-16,15.68,15.88,15.62,15.76,2280688,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
-2022-06-17,15.84,15.94,15.66,15.76,6191267,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
+2022-06-17,15.84,15.94,15.65,15.76,6191267,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
+2022-06-21,16.18,16.29,16.13,16.16,1148199,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
+2022-06-22,15.97,16.24,15.91,16.06,715242,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
+2022-06-23,15.8,15.81,15.53,15.75,1574325,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
+2022-06-24,15.95,16.2,15.95,16.19,5786292,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
+2022-06-27,16.17,16.25,16.08,16.15,706531,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
+2022-06-28,16.25,16.35,16.03,16.04,2659033,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
+2022-06-29,16.04,16.05,15.9,15.9,2736078,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
+2022-06-30,15.52,15.87,15.41,15.87,1778074,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
+2022-07-01,15.54,15.77,15.43,15.74,1143423,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,banks,etf,external
 2020-01-02,69.2,69.27,68.89,69.27,363972,USD,NYSE,iShares US Financials,IYF,banks,etf,external
 2020-01-03,68.5,69.09,68.5,68.88,246612,USD,NYSE,iShares US Financials,IYF,banks,etf,external
 2020-01-06,68.33,68.85,68.33,68.83,287978,USD,NYSE,iShares US Financials,IYF,banks,etf,external
@@ -21268,7 +21558,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,69.85,70.41,68.63,69.1,372077,USD,NYSE,iShares US Financials,IYF,banks,etf,external
 2022-06-15,69.89,70.92,68.82,69.91,645259,USD,NYSE,iShares US Financials,IYF,banks,etf,external
 2022-06-16,68.58,68.58,67.51,67.96,660498,USD,NYSE,iShares US Financials,IYF,banks,etf,external
-2022-06-17,68.08,68.94,67.64,68.22,633520,USD,NYSE,iShares US Financials,IYF,banks,etf,external
+2022-06-17,68.08,68.95,67.6,68.22,633520,USD,NYSE,iShares US Financials,IYF,banks,etf,external
+2022-06-21,69.65,69.96,69.24,69.65,223947,USD,NYSE,iShares US Financials,IYF,banks,etf,external
+2022-06-22,68.73,70.05,68.68,69.48,363238,USD,NYSE,iShares US Financials,IYF,banks,etf,external
+2022-06-23,69.64,69.72,68.26,69.35,389971,USD,NYSE,iShares US Financials,IYF,banks,etf,external
+2022-06-24,69.75,72.06,69.68,72.01,303828,USD,NYSE,iShares US Financials,IYF,banks,etf,external
+2022-06-27,72.44,72.47,71.4,71.73,145905,USD,NYSE,iShares US Financials,IYF,banks,etf,external
+2022-06-28,72.41,73.11,71.0,71.07,234712,USD,NYSE,iShares US Financials,IYF,banks,etf,external
+2022-06-29,71.12,71.28,70.33,70.53,225064,USD,NYSE,iShares US Financials,IYF,banks,etf,external
+2022-06-30,69.44,70.58,68.58,69.98,319996,USD,NYSE,iShares US Financials,IYF,banks,etf,external
+2022-07-01,69.74,71.1,69.26,70.91,290196,USD,NYSE,iShares US Financials,IYF,banks,etf,external
 2020-01-02,152.48,153.47,152.26,153.47,53691,USD,NYSE,iShares US Financial Services,IYG,banks,etf,external
 2020-01-03,151.56,152.53,151.3,151.98,81293,USD,NYSE,iShares US Financial Services,IYG,banks,etf,external
 2020-01-06,150.4,151.55,150.27,151.42,487454,USD,NYSE,iShares US Financial Services,IYG,banks,etf,external
@@ -21921,6 +22220,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,149.14,151.49,146.72,149.28,92116,USD,NYSE,iShares US Financial Services,IYG,banks,etf,external
 2022-06-16,145.75,145.75,143.65,144.83,119486,USD,NYSE,iShares US Financial Services,IYG,banks,etf,external
 2022-06-17,145.14,147.25,144.12,145.62,169599,USD,NYSE,iShares US Financial Services,IYG,banks,etf,external
+2022-06-21,148.93,149.75,148.13,148.81,70881,USD,NYSE,iShares US Financial Services,IYG,banks,etf,external
+2022-06-22,146.5,149.59,146.5,148.41,56301,USD,NYSE,iShares US Financial Services,IYG,banks,etf,external
+2022-06-23,148.82,148.98,145.87,148.31,78609,USD,NYSE,iShares US Financial Services,IYG,banks,etf,external
+2022-06-24,148.99,154.01,148.98,153.97,61200,USD,NYSE,iShares US Financial Services,IYG,banks,etf,external
+2022-06-27,154.9,154.9,152.42,153.07,57169,USD,NYSE,iShares US Financial Services,IYG,banks,etf,external
+2022-06-28,154.58,156.21,150.98,151.16,94575,USD,NYSE,iShares US Financial Services,IYG,banks,etf,external
+2022-06-29,151.25,151.76,149.7,150.29,74075,USD,NYSE,iShares US Financial Services,IYG,banks,etf,external
+2022-06-30,147.98,149.7,145.25,148.22,107926,USD,NYSE,iShares US Financial Services,IYG,banks,etf,external
+2022-07-01,147.67,150.38,146.36,150.04,58249,USD,NYSE,iShares US Financial Services,IYG,banks,etf,external
 2020-01-02,19.66,19.8,19.66,19.8,812160,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
 2020-01-03,19.4,19.52,19.4,19.42,584326,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
 2020-01-06,19.24,19.43,19.24,19.43,229938,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
@@ -22541,7 +22849,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,15.75,15.82,15.46,15.57,2205185,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
 2022-06-15,16.1,16.25,15.82,16.17,1413058,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
 2022-06-16,15.68,15.88,15.62,15.76,2280688,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
-2022-06-17,15.84,15.94,15.66,15.76,6191267,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
+2022-06-17,15.84,15.94,15.65,15.76,6191267,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
+2022-06-21,16.18,16.29,16.13,16.16,1148199,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
+2022-06-22,15.97,16.24,15.91,16.06,715242,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
+2022-06-23,15.8,15.81,15.53,15.75,1574325,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
+2022-06-24,15.95,16.2,15.95,16.19,5786292,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
+2022-06-27,16.17,16.25,16.08,16.15,706531,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
+2022-06-28,16.25,16.35,16.03,16.04,2659033,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
+2022-06-29,16.04,16.05,15.9,15.9,2736078,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
+2022-06-30,15.52,15.87,15.41,15.87,1778074,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
+2022-07-01,15.54,15.77,15.43,15.74,1143423,USD,NASDAQ,iShares MSCI Europe Financials,EUFN,non-bank financial institutions,etf,external
 2020-01-02,69.2,69.27,68.89,69.27,363972,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
 2020-01-03,68.5,69.09,68.5,68.88,246612,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
 2020-01-06,68.33,68.85,68.33,68.83,287978,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
@@ -23168,7 +23485,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,69.85,70.41,68.63,69.1,372077,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
 2022-06-15,69.89,70.92,68.82,69.91,645259,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
 2022-06-16,68.58,68.58,67.51,67.96,660498,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
-2022-06-17,68.08,68.94,67.64,68.22,633520,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
+2022-06-17,68.08,68.95,67.6,68.22,633520,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
+2022-06-21,69.65,69.96,69.24,69.65,223947,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
+2022-06-22,68.73,70.05,68.68,69.48,363238,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
+2022-06-23,69.64,69.72,68.26,69.35,389971,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
+2022-06-24,69.75,72.06,69.68,72.01,303828,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
+2022-06-27,72.44,72.47,71.4,71.73,145905,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
+2022-06-28,72.41,73.11,71.0,71.07,234712,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
+2022-06-29,71.12,71.28,70.33,70.53,225064,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
+2022-06-30,69.44,70.58,68.58,69.98,319996,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
+2022-07-01,69.74,71.1,69.26,70.91,290196,USD,NYSE,iShares US Financials,IYF,non-bank financial institutions,etf,external
 2020-01-02,152.48,153.47,152.26,153.47,53691,USD,NYSE,iShares US Financial Services,IYG,non-bank financial institutions,etf,external
 2020-01-03,151.56,152.53,151.3,151.98,81293,USD,NYSE,iShares US Financial Services,IYG,non-bank financial institutions,etf,external
 2020-01-06,150.4,151.55,150.27,151.42,487454,USD,NYSE,iShares US Financial Services,IYG,non-bank financial institutions,etf,external
@@ -23821,6 +24147,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,149.14,151.49,146.72,149.28,92116,USD,NYSE,iShares US Financial Services,IYG,non-bank financial institutions,etf,external
 2022-06-16,145.75,145.75,143.65,144.83,119486,USD,NYSE,iShares US Financial Services,IYG,non-bank financial institutions,etf,external
 2022-06-17,145.14,147.25,144.12,145.62,169599,USD,NYSE,iShares US Financial Services,IYG,non-bank financial institutions,etf,external
+2022-06-21,148.93,149.75,148.13,148.81,70881,USD,NYSE,iShares US Financial Services,IYG,non-bank financial institutions,etf,external
+2022-06-22,146.5,149.59,146.5,148.41,56301,USD,NYSE,iShares US Financial Services,IYG,non-bank financial institutions,etf,external
+2022-06-23,148.82,148.98,145.87,148.31,78609,USD,NYSE,iShares US Financial Services,IYG,non-bank financial institutions,etf,external
+2022-06-24,148.99,154.01,148.98,153.97,61200,USD,NYSE,iShares US Financial Services,IYG,non-bank financial institutions,etf,external
+2022-06-27,154.9,154.9,152.42,153.07,57169,USD,NYSE,iShares US Financial Services,IYG,non-bank financial institutions,etf,external
+2022-06-28,154.58,156.21,150.98,151.16,94575,USD,NYSE,iShares US Financial Services,IYG,non-bank financial institutions,etf,external
+2022-06-29,151.25,151.76,149.7,150.29,74075,USD,NYSE,iShares US Financial Services,IYG,non-bank financial institutions,etf,external
+2022-06-30,147.98,149.7,145.25,148.22,107926,USD,NYSE,iShares US Financial Services,IYG,non-bank financial institutions,etf,external
+2022-07-01,147.67,150.38,146.36,150.04,58249,USD,NYSE,iShares US Financial Services,IYG,non-bank financial institutions,etf,external
 2020-01-02,31.78,31.78,31.28,31.32,2954,CAD,Toronto,iShares Global Real Estate Common Class,CGR,real estate,etf,external
 2020-01-03,31.13,31.4,31.13,31.28,3969,CAD,Toronto,iShares Global Real Estate Common Class,CGR,real estate,etf,external
 2020-01-06,31.34,31.45,31.28,31.45,1022,CAD,Toronto,iShares Global Real Estate Common Class,CGR,real estate,etf,external
@@ -24435,6 +24770,14 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,27.97,27.97,27.87,27.96,4181,CAD,Toronto,iShares Global Real Estate Common Class,CGR,real estate,etf,external
 2022-06-16,27.45,27.66,27.3,27.43,9497,CAD,Toronto,iShares Global Real Estate Common Class,CGR,real estate,etf,external
 2022-06-17,27.66,27.92,27.66,27.92,1803,CAD,Toronto,iShares Global Real Estate Common Class,CGR,real estate,etf,external
+2022-06-20,28.0,28.0,28.0,28.0,833,CAD,Toronto,iShares Global Real Estate Common Class,CGR,real estate,etf,external
+2022-06-21,28.08,28.21,28.01,28.01,2338,CAD,Toronto,iShares Global Real Estate Common Class,CGR,real estate,etf,external
+2022-06-22,28.0,28.45,28.0,28.34,4333,CAD,Toronto,iShares Global Real Estate Common Class,CGR,real estate,etf,external
+2022-06-23,28.67,28.7,28.62,28.7,1587,CAD,Toronto,iShares Global Real Estate Common Class,CGR,real estate,etf,external
+2022-06-27,28.89,28.93,28.86,28.86,1549,CAD,Toronto,iShares Global Real Estate Common Class,CGR,real estate,etf,external
+2022-06-28,29.08,29.08,28.68,28.68,2299,CAD,Toronto,iShares Global Real Estate Common Class,CGR,real estate,etf,external
+2022-06-29,28.52,28.52,28.52,28.52,233,CAD,Toronto,iShares Global Real Estate Common Class,CGR,real estate,etf,external
+2022-06-30,28.19,28.37,28.1,28.37,2077,CAD,Toronto,iShares Global Real Estate Common Class,CGR,real estate,etf,external
 2020-01-02,51.64,51.76,51.0,51.19,350357,USD,NYSE,SPDR Dow Jones Global Real Estate,RWO,real estate,etf,external
 2020-01-03,50.83,51.49,50.83,51.36,456880,USD,NYSE,SPDR Dow Jones Global Real Estate,RWO,real estate,etf,external
 2020-01-06,51.31,51.57,51.23,51.44,420096,USD,NYSE,SPDR Dow Jones Global Real Estate,RWO,real estate,etf,external
@@ -25086,6 +25429,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,43.4,44.46,43.3,44.03,187468,USD,NYSE,SPDR Dow Jones Global Real Estate,RWO,real estate,etf,external
 2022-06-16,43.21,43.38,42.95,43.08,130950,USD,NYSE,SPDR Dow Jones Global Real Estate,RWO,real estate,etf,external
 2022-06-17,43.31,43.77,43.03,43.33,166848,USD,NYSE,SPDR Dow Jones Global Real Estate,RWO,real estate,etf,external
+2022-06-21,43.4,43.71,43.22,43.27,166071,USD,NYSE,SPDR Dow Jones Global Real Estate,RWO,real estate,etf,external
+2022-06-22,42.85,43.96,42.85,43.53,109834,USD,NYSE,SPDR Dow Jones Global Real Estate,RWO,real estate,etf,external
+2022-06-23,43.68,44.17,43.58,44.12,122489,USD,NYSE,SPDR Dow Jones Global Real Estate,RWO,real estate,etf,external
+2022-06-24,44.48,45.08,44.4,45.06,108435,USD,NYSE,SPDR Dow Jones Global Real Estate,RWO,real estate,etf,external
+2022-06-27,45.02,45.36,44.77,45.05,94340,USD,NYSE,SPDR Dow Jones Global Real Estate,RWO,real estate,etf,external
+2022-06-28,45.32,45.76,44.73,44.73,68851,USD,NYSE,SPDR Dow Jones Global Real Estate,RWO,real estate,etf,external
+2022-06-29,44.64,44.64,43.32,44.39,81975,USD,NYSE,SPDR Dow Jones Global Real Estate,RWO,real estate,etf,external
+2022-06-30,43.87,44.54,43.65,44.14,546941,USD,NYSE,SPDR Dow Jones Global Real Estate,RWO,real estate,etf,external
+2022-07-01,43.94,44.68,43.94,44.68,231527,USD,NYSE,SPDR Dow Jones Global Real Estate,RWO,real estate,etf,external
 2020-01-02,24.99,25.89,24.99,25.66,10910,USD,NYSE,Global X MSCI China Communication Services,CHIC,information and communications,etf,external
 2020-01-03,25.45,26.14,25.44,25.5,3778,USD,NYSE,Global X MSCI China Communication Services,CHIC,information and communications,etf,external
 2020-01-06,25.57,25.66,25.24,25.38,4600,USD,NYSE,Global X MSCI China Communication Services,CHIC,information and communications,etf,external
@@ -25737,6 +26089,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,16.58,16.71,16.49,16.7,3273,USD,NYSE,Global X MSCI China Communication Services,CHIC,information and communications,etf,external
 2022-06-16,16.18,16.18,16.13,16.15,291,USD,NYSE,Global X MSCI China Communication Services,CHIC,information and communications,etf,external
 2022-06-17,16.14,16.23,16.14,16.22,2105,USD,NYSE,Global X MSCI China Communication Services,CHIC,information and communications,etf,external
+2022-06-21,16.68,16.68,16.66,16.68,1187,USD,NYSE,Global X MSCI China Communication Services,CHIC,information and communications,etf,external
+2022-06-22,16.11,16.37,16.11,16.28,1015,USD,NYSE,Global X MSCI China Communication Services,CHIC,information and communications,etf,external
+2022-06-23,16.58,16.58,16.33,16.51,220,USD,NYSE,Global X MSCI China Communication Services,CHIC,information and communications,etf,external
+2022-06-24,16.84,16.91,16.84,16.91,298,USD,NYSE,Global X MSCI China Communication Services,CHIC,information and communications,etf,external
+2022-06-27,17.0,17.0,16.96,16.99,1014,USD,NYSE,Global X MSCI China Communication Services,CHIC,information and communications,etf,external
+2022-06-28,16.93,16.93,16.91,16.92,617,USD,NYSE,Global X MSCI China Communication Services,CHIC,information and communications,etf,external
+2022-06-29,16.62,16.62,16.62,16.62,104,USD,NYSE,Global X MSCI China Communication Services,CHIC,information and communications,etf,external
+2022-06-30,16.69,16.69,16.41,16.6,1412,USD,NYSE,Global X MSCI China Communication Services,CHIC,information and communications,etf,external
+2022-07-01,16.69,16.69,16.69,16.69,284,USD,NYSE,Global X MSCI China Communication Services,CHIC,information and communications,etf,external
 2020-01-02,29.99,29.99,29.99,29.98,100,USD,London,iShares Asia Property Yield UCITS,IDAR,real estate,etf,external
 2020-01-03,29.86,29.89,29.72,29.88,4837,USD,London,iShares Asia Property Yield UCITS,IDAR,real estate,etf,external
 2020-01-06,29.93,29.93,29.93,29.92,5,USD,London,iShares Asia Property Yield UCITS,IDAR,real estate,etf,external
@@ -26326,6 +26687,15 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,23.17,23.17,23.17,22.92,40,USD,London,iShares Asia Property Yield UCITS,IDAR,real estate,etf,external
 2022-06-16,22.75,22.83,22.75,22.83,281,USD,London,iShares Asia Property Yield UCITS,IDAR,real estate,etf,external
 2022-06-17,23.32,23.32,22.67,22.76,295,USD,London,iShares Asia Property Yield UCITS,IDAR,real estate,etf,external
+2022-06-20,23.03,23.03,23.03,23.03,0,USD,London,iShares Asia Property Yield UCITS,IDAR,real estate,etf,external
+2022-06-21,23.15,23.15,23.15,23.15,384,USD,London,iShares Asia Property Yield UCITS,IDAR,real estate,etf,external
+2022-06-22,22.75,22.75,22.75,23.0,267,USD,London,iShares Asia Property Yield UCITS,IDAR,real estate,etf,external
+2022-06-24,23.43,23.43,23.43,23.42,384,USD,London,iShares Asia Property Yield UCITS,IDAR,real estate,etf,external
+2022-06-27,23.43,23.43,23.43,23.51,17,USD,London,iShares Asia Property Yield UCITS,IDAR,real estate,etf,external
+2022-06-28,23.67,23.67,23.67,23.67,0,USD,London,iShares Asia Property Yield UCITS,IDAR,real estate,etf,external
+2022-06-29,23.54,23.54,23.54,23.54,0,USD,London,iShares Asia Property Yield UCITS,IDAR,real estate,etf,external
+2022-06-30,23.31,23.31,23.31,23.31,0,USD,London,iShares Asia Property Yield UCITS,IDAR,real estate,etf,external
+2022-07-01,23.28,23.28,23.27,23.27,21,USD,London,iShares Asia Property Yield UCITS,IDAR,real estate,etf,external
 2020-01-02,30.84,31.03,30.43,30.43,92702,USD,London,iShares US Property Yield UCITS,IDUP,real estate,etf,external
 2020-01-03,30.27,30.55,30.26,30.6,7359,USD,London,iShares US Property Yield UCITS,IDUP,real estate,etf,external
 2020-01-06,30.6,30.68,30.6,30.65,15095,USD,London,iShares US Property Yield UCITS,IDUP,real estate,etf,external
@@ -26947,6 +27317,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,27.94,28.31,27.87,28.11,27091,USD,London,iShares US Property Yield UCITS,IDUP,real estate,etf,external
 2022-06-16,28.08,28.09,27.61,27.87,29724,USD,London,iShares US Property Yield UCITS,IDUP,real estate,etf,external
 2022-06-17,28.03,28.31,27.75,28.13,25228,USD,London,iShares US Property Yield UCITS,IDUP,real estate,etf,external
+2022-06-20,28.0,28.27,28.0,28.25,13462,USD,London,iShares US Property Yield UCITS,IDUP,real estate,etf,external
+2022-06-21,28.4,28.57,28.18,28.58,46273,USD,London,iShares US Property Yield UCITS,IDUP,real estate,etf,external
+2022-06-22,28.12,28.56,27.83,28.6,7348,USD,London,iShares US Property Yield UCITS,IDUP,real estate,etf,external
+2022-06-23,28.34,28.87,28.33,28.78,36882,USD,London,iShares US Property Yield UCITS,IDUP,real estate,etf,external
+2022-06-24,29.05,29.39,29.03,29.39,35022,USD,London,iShares US Property Yield UCITS,IDUP,real estate,etf,external
+2022-06-27,29.47,29.83,29.4,29.81,8121,USD,London,iShares US Property Yield UCITS,IDUP,real estate,etf,external
+2022-06-28,29.8,30.09,29.63,29.76,15700,USD,London,iShares US Property Yield UCITS,IDUP,real estate,etf,external
+2022-06-29,29.46,29.55,29.15,29.15,18485,USD,London,iShares US Property Yield UCITS,IDUP,real estate,etf,external
+2022-06-30,28.92,29.02,28.92,28.99,12482,USD,London,iShares US Property Yield UCITS,IDUP,real estate,etf,external
+2022-07-01,28.78,29.42,28.78,29.32,18100,USD,London,iShares US Property Yield UCITS,IDUP,real estate,etf,external
 2020-01-02,669.6,671.47,663.21,667.25,215184,GBP,London,iShares UK Property UCITS,IUKP,real estate,etf,external
 2020-01-03,666.8,666.87,658.94,665.8,131657,GBP,London,iShares UK Property UCITS,IUKP,real estate,etf,external
 2020-01-06,664.17,664.17,654.04,657.05,148648,GBP,London,iShares UK Property UCITS,IUKP,real estate,etf,external
@@ -27568,6 +27948,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,561.7,568.5,561.1,567.55,210583,GBP,London,iShares UK Property UCITS,IUKP,real estate,etf,external
 2022-06-16,568.4,568.4,554.1,560.5,345335,GBP,London,iShares UK Property UCITS,IUKP,real estate,etf,external
 2022-06-17,562.2,573.2,561.2,566.9,552094,GBP,London,iShares UK Property UCITS,IUKP,real estate,etf,external
+2022-06-20,569.0,572.0,561.4,563.0,158816,GBP,London,iShares UK Property UCITS,IUKP,real estate,etf,external
+2022-06-21,561.0,567.9,559.6,560.7,76115,GBP,London,iShares UK Property UCITS,IUKP,real estate,etf,external
+2022-06-22,560.5,565.4,553.3,563.6,147929,GBP,London,iShares UK Property UCITS,IUKP,real estate,etf,external
+2022-06-23,559.8,561.6,552.7,554.6,133604,GBP,London,iShares UK Property UCITS,IUKP,real estate,etf,external
+2022-06-24,554.5,569.3,554.5,568.9,48925,GBP,London,iShares UK Property UCITS,IUKP,real estate,etf,external
+2022-06-27,572.7,575.5,567.9,573.65,43679,GBP,London,iShares UK Property UCITS,IUKP,real estate,etf,external
+2022-06-28,576.1,582.0,573.0,581.3,103590,GBP,London,iShares UK Property UCITS,IUKP,real estate,etf,external
+2022-06-29,571.7,578.3,558.73,562.2,164909,GBP,London,iShares UK Property UCITS,IUKP,real estate,etf,external
+2022-06-30,558.4,558.4,538.8,543.8,202517,GBP,London,iShares UK Property UCITS,IUKP,real estate,etf,external
+2022-07-01,539.0,546.5,534.0,536.5,290249,GBP,London,iShares UK Property UCITS,IUKP,real estate,etf,external
 2020-01-02,3907.6,3926.5,3892.5,3921.8,1006,GBP,London,iShares European Property Yield UCITS,IPRP,real estate,etf,external
 2020-01-03,3920.5,3965.0,3920.5,3958.5,2736,GBP,London,iShares European Property Yield UCITS,IPRP,real estate,etf,external
 2020-01-06,3975.5,3975.5,3897.0,3917.3,2759,GBP,London,iShares European Property Yield UCITS,IPRP,real estate,etf,external
@@ -28189,6 +28579,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,2801.0,2818.5,2750.0,2761.0,13185,GBP,London,iShares European Property Yield UCITS,IPRP,real estate,etf,external
 2022-06-16,2677.0,2679.5,2535.1,2552.8,12129,GBP,London,iShares European Property Yield UCITS,IPRP,real estate,etf,external
 2022-06-17,2561.0,2639.9,2561.0,2636.8,3558,GBP,London,iShares European Property Yield UCITS,IPRP,real estate,etf,external
+2022-06-20,2669.0,2669.7,2641.8,2657.3,6435,GBP,London,iShares European Property Yield UCITS,IPRP,real estate,etf,external
+2022-06-21,2672.5,2683.4,2659.9,2660.3,873,GBP,London,iShares European Property Yield UCITS,IPRP,real estate,etf,external
+2022-06-22,2615.0,2662.5,2609.5,2665.0,1147,GBP,London,iShares European Property Yield UCITS,IPRP,real estate,etf,external
+2022-06-23,2651.5,2670.5,2571.3,2607.3,6411,GBP,London,iShares European Property Yield UCITS,IPRP,real estate,etf,external
+2022-06-24,2625.0,2679.0,2608.1,2665.0,3033,GBP,London,iShares European Property Yield UCITS,IPRP,real estate,etf,external
+2022-06-27,2685.0,2698.0,2657.4,2684.5,1534,GBP,London,iShares European Property Yield UCITS,IPRP,real estate,etf,external
+2022-06-28,2705.5,2706.0,2672.9,2699.5,3524,GBP,London,iShares European Property Yield UCITS,IPRP,real estate,etf,external
+2022-06-29,2671.0,2671.0,2605.6,2622.5,5882,GBP,London,iShares European Property Yield UCITS,IPRP,real estate,etf,external
+2022-06-30,2584.5,2588.0,2503.3,2541.5,10964,GBP,London,iShares European Property Yield UCITS,IPRP,real estate,etf,external
+2022-07-01,2544.0,2587.5,2528.0,2563.5,5644,GBP,London,iShares European Property Yield UCITS,IPRP,real estate,etf,external
 2020-01-02,31.66,31.89,31.66,31.89,4507,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
 2020-01-03,31.6,31.61,31.51,31.51,595,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
 2020-01-06,31.34,31.41,31.3,31.37,2004,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
@@ -28788,7 +29188,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,21.83,21.94,21.83,21.89,1603,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
 2022-06-15,21.87,22.08,21.79,21.99,4599,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
 2022-06-16,21.5,21.5,21.29,21.32,1230,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
-2022-06-17,21.26,21.39,21.21,21.21,2855,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
+2022-06-17,21.31,21.39,21.21,21.21,2855,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
+2022-06-21,21.68,21.74,21.53,21.67,13094,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
+2022-06-22,21.39,21.52,21.36,21.42,1824,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
+2022-06-23,21.35,21.35,21.19,21.22,5798,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
+2022-06-24,21.36,21.62,21.36,21.56,1280,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
+2022-06-27,21.84,22.58,21.7,22.58,11307,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
+2022-06-28,22.19,22.19,21.9,21.9,7489,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
+2022-06-29,21.74,21.96,21.74,21.82,2960,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
+2022-06-30,21.8,21.82,21.77,21.82,1057,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
+2022-07-01,21.65,21.71,21.59,21.71,3182,USD,NASDAQ,iShares Emerg Markets Infrastructure,EMIF,construction,etf,external
 2020-01-02,28.36,28.43,28.35,28.43,430,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
 2020-01-03,28.29,28.39,28.29,28.38,4027,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
 2020-01-06,28.2,28.36,28.2,28.35,972,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
@@ -29435,7 +29844,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,34.95,34.95,33.97,34.29,350002,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
 2022-06-15,34.59,34.87,33.98,34.42,300452,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
 2022-06-16,33.81,33.82,32.79,33.01,511089,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
-2022-06-17,33.1,33.41,32.52,32.87,522131,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
+2022-06-17,33.1,33.41,32.52,32.87,533834,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
+2022-06-21,33.24,33.55,33.02,33.35,370938,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
+2022-06-22,32.86,33.42,32.81,33.2,337136,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
+2022-06-23,33.24,33.42,32.95,33.3,228067,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
+2022-06-24,33.49,34.31,33.49,34.28,201505,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
+2022-06-27,34.37,34.74,34.28,34.64,182642,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
+2022-06-28,34.88,35.12,34.28,34.28,311048,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
+2022-06-29,34.4,34.45,33.7,33.96,217027,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
+2022-06-30,33.59,34.21,33.49,34.04,205926,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
+2022-07-01,34.03,34.63,33.9,34.61,159420,USD,NYSE,iShares US Infrastructure,IFRA,construction,etf,external
 2020-01-02,0.968,1.001,0.964,0.997,14472900,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
 2020-01-03,0.998,1.008,0.996,1.005,7574900,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
 2020-01-06,0.988,1.033,0.988,1.026,12558200,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
@@ -30030,6 +30448,17 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-15,0.86,0.887,0.86,0.872,5060100,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
 2022-06-16,0.872,0.895,0.872,0.886,6567400,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
 2022-06-17,0.871,0.887,0.864,0.886,7112500,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
+2022-06-20,0.881,0.893,0.88,0.891,5259800,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
+2022-06-21,0.891,0.896,0.877,0.886,6126800,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
+2022-06-22,0.886,0.886,0.86,0.86,3606100,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
+2022-06-23,0.861,0.886,0.86,0.884,4132800,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
+2022-06-24,0.885,0.907,0.885,0.906,4393500,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
+2022-06-27,0.907,0.912,0.898,0.903,2714800,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
+2022-06-28,0.907,0.928,0.896,0.926,3809000,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
+2022-06-29,0.927,0.939,0.91,0.914,3703600,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
+2022-06-30,0.903,0.926,0.903,0.921,3596700,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
+2022-07-01,0.921,0.926,0.909,0.912,2889700,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
+2022-07-04,0.914,0.914,0.896,0.902,2963200,CNY,Shanghai,China Southern CSI 500 Information Technology,512330,information and communications,etf,external
 2020-01-02,58.69,59.35,58.62,59.35,826524,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
 2020-01-03,58.55,59.13,58.55,58.76,377068,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
 2020-01-06,58.18,59.15,58.04,59.12,330624,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
@@ -30655,7 +31084,16 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,79.4,79.82,78.4,79.13,540412,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
 2022-06-15,80.14,82.22,79.25,81.02,453067,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
 2022-06-16,78.96,79.05,76.91,77.53,493698,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
-2022-06-17,77.8,79.05,77.01,78.36,612222,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
+2022-06-17,77.56,79.06,77.01,78.36,612222,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
+2022-06-21,79.6,81.12,79.6,80.3,472565,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
+2022-06-22,79.42,81.26,79.39,79.99,497755,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
+2022-06-23,80.73,81.6,79.99,81.41,490677,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
+2022-06-24,82.29,84.7,82.29,84.69,463501,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
+2022-06-27,84.99,84.99,83.58,83.96,321989,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
+2022-06-28,84.05,84.66,81.18,81.21,332895,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
+2022-06-29,81.12,81.79,80.39,81.2,238939,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
+2022-06-30,80.1,81.04,78.61,79.95,352470,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
+2022-07-01,79.46,80.16,78.62,79.93,323715,USD,NYSE,iShares US Technology,IYW,information and communications,etf,external
 2020-01-02,82.16,82.87,82.09,82.6,2702,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
 2020-01-03,82.28,82.34,82.12,82.34,1098,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
 2020-01-06,81.76,83.04,81.76,83.04,2081,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
@@ -31303,4 +31741,13 @@ Date,Open,High,Low,Close,Volume,Currency,Exchange,security,ticker_id,sector,clas
 2022-06-14,76.11,76.11,75.03,75.2,3324,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
 2022-06-15,77.0,78.53,77.0,78.53,785,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
 2022-06-16,74.38,74.38,73.81,73.81,1796,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
-2022-06-17,75.31,76.51,75.31,76.51,31734,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
+2022-06-17,75.31,76.51,75.31,76.51,31736,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
+2022-06-21,78.16,79.83,77.88,77.88,2816,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
+2022-06-22,78.97,79.22,78.07,78.24,2882,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
+2022-06-23,79.24,81.82,79.24,81.82,5413,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
+2022-06-24,83.08,85.02,83.08,84.44,3752,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
+2022-06-27,85.36,85.36,82.16,82.41,2214,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
+2022-06-28,82.88,82.88,78.7,78.7,2870,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
+2022-06-29,77.34,78.29,76.74,77.57,1461,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
+2022-06-30,75.26,75.61,73.98,74.84,1245,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
+2022-07-01,76.38,76.83,75.0,76.83,1090,USD,NYSE,SPDR S&P Internet,XWEB,information and communications,etf,external
